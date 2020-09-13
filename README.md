@@ -1,7 +1,7 @@
 # dispatcherns
 A python application to automate the posting of dispatches. Use entails two things:
 * a configuration .ini file, in the same directory as this program, with each nation you want to dispatch to as the [section_heading] and the nations password, the path to a directory of dispatch files and a useragent which will be appended to the application's.
-'''INI
+'''INI  
     [testlandia]
     password = hunter9
     path = /users/folder/nations/testlandia
