@@ -1,0 +1,4 @@
+python-frontmatter
+nsapiwrapper
+configparser
+guietta
